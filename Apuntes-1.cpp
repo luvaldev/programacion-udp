@@ -22,6 +22,7 @@ main() // Funcion principal
 	return 0;
 }
 
+
 // cout para mostrar texto en pantalla
 // cin para que el usuario escriba un texto para finalizar
 // return 0; para finalizar el programa
